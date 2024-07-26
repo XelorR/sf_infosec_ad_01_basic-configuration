@@ -7,15 +7,12 @@ Homework for sf/mifi infosec courses
 ### Даны два устройства, находящиеся в домене:
 
 1. **SF-AD с Active Directory + OpenVPN Server**
-
+   
 - Подключение по RDP
-- User: Administrator
 - **Active Directory**
-- Domain: sfcourse.local
      
 2. **SF-CLIENT**
 - Подключение по RDP
-- User: Administrator
 - **OpenVPN Client**
 
 ### Вам необходимо произвести настройку Active Directory по следующему ТЗ:
